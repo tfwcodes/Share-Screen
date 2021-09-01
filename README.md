@@ -1,1 +1,4 @@
 # Share-Screen
+
+# requierments:
+- vidstream
